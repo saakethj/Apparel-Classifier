@@ -1,0 +1,15 @@
+1. Data Set download - done
+
+2. Sorting the data - 
+	- Footwear -  
+	-T-shirt -  done
+	-Bag - done
+	
+
+3. Converting to Greyscale -  done
+
+4. Changing the resolution -  done
+
+5. Extracting the pixel values
+
+6. Labelling to corresponding image
