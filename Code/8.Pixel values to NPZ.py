@@ -1,3 +1,5 @@
+# Transform the csv to numpy array with pixel values
+# Store them with .npz
 import numpy as np
 import pandas as pd
 

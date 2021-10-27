@@ -1,3 +1,4 @@
+# Merging the csv files of fashion categories
 import os
 import glob
 import pandas as pd
