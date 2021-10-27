@@ -1,13 +1,10 @@
-"""Convertinng the original color images to grayscale with pixel values 
-   ranging from 0-255, and storing them in a different directory """
+# Converting the images from RGB to Grayscale with pixel values ranging from 0-255
 
 import cv2
 import glob
 import os
 
 os.mkdir("E:/ANN PROJECT/Datasets/fashion-dataset/Categorized Dataset/Shirts/grayscale_shirts/")
-
-# Path of the folder containing color images
 images_path = glob.glob("E:/ANN PROJECT/Datasets/fashion-dataset/Categorized Dataset/Shirts/With & without people/*.jpg")
 
 i = 0

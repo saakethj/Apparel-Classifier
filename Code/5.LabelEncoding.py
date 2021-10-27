@@ -1,6 +1,4 @@
-"""" As for the labels whick are categorical data they need to be converted into numeric data
-     which each number represents different category in the dataset. Labelencoding converts the
-     given column containing categorical data to numeric data. """
+# Converting the categorical data to numeric data with LabelEncoding
 
 import numpy as np
 import pandas as pd
