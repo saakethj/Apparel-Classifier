@@ -8,7 +8,7 @@ This model uses fasion dataset collected from various sources containing images 
 
 First the images were converted to grayscale which has pixel values ranging form 0-256 then the grayscale images are pixelized to 28x28 pixels.
 
-![1001](https://user-images.githubusercontent.com/76273604/144008638-7e3008a1-f914-4d85-97df-f4cf0829f7f8.png)
+![asdasd](https://user-images.githubusercontent.com/76273604/144009265-23e47207-6ae6-4efb-8d01-f18478810a10.png)
 
 After pixelizing the images are compressed to .npz which stores the pixel values in 2-D array(test and train images) 
 
